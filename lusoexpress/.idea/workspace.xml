@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3aadb63-5b7b-44d9-8686-deddeab271bb" name="Default" comment="" />
+    <ignored path="lusoexpress.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lusoexpress" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="53" selection-start="1187" selection-end="1187" vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="850">
+              <folding>
+                <element signature="e#181#231#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Service/UserService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="17" selection-start="1863" selection-end="1868" vertical-scroll-proportion="0.49942595" vertical-offset="432" max-vertical-offset="1598">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/Shared/Event/QueueEventBusInterface.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/Shared/Event/SimpleEventBus.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/User/Event/UserEventSubscriber.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/User/Command/UserCreateCommand.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/User/Query/UserList.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/User/Service/UserService.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/Shared/Change/ChangeSet.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/User/Event/UserUpdatedEvent.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/User/Event/UserCreatedEvent.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/User/Event/UserPasswordUpdatedEvent.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/User/Repository/UserRepositoryForTesting.php" />
+        <option value="$PROJECT_DIR$/vendor/autoload.php" />
+        <option value="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/Shared/Repository/HasRepositorySaveTrait.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/Domain/User/Repository/UserRepositoryPDO.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Change/ChangeInterface.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Exception/UserAlreadyExistException.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/EntityGenerator.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/EntityPersister.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/EntityInterface.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityPersister.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManager.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Exception/UserNotFoundException.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManagerInterface.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Factory/UserFactory.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Query/Sorting.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Query/UserList.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application/UserModule/Repository/UserRepository.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application/UserModule/Repository/UserEntityRepository.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Service/UserService.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/User.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Command/UserUpdateCommand.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/UpdateUserChange.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/UserRepositoryPDO.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserExceptionEvent.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserPasswordUpdatedEvent.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/UpdateUserPasswordChange.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManagerPDO.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityInterface.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/UserRepository.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Repository/HasRepositorySaveTrait.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ConfigParser.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Migrations.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityAbstract.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityGenerator.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Users.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server deployment_server="c2476a5a-c775-49d3-a0de-7f0d0c84bbc5" host="http://bo.lusoexpress" name="VMhost le" use_path_mappings="true" validation_dir="X:\Development\public_html\lusoexpress">
+        <path_mappings>
+          <path_mapping local_path="$PROJECT_DIR$" remote_path="/home/nikolai/Development/public_html/lusoexpress" />
+        </path_mappings>
+      </server>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Infrastructure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Factory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exception" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Event" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="User" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Change" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LusoExpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserModule" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLibrary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLibrary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ORM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="Configurable.PHP" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop.express" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="SearchEverywhereHistory" value="&#10;En" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\CommonLibrary\ORM" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\LusoExpress\Domain\Shared\Query" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\LusoExpress\Domain\User\Exception" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\CommonLibrary" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\LusoExpress\Domain\User" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\CommonLibrary\ORM" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\LusoExpress" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\Domain\Shared\Factory" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\Domain\User\Factory" />
+      <recent name="X:\Development\public_html\lusoexpress\vendor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.Lusoexpress">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="false" name="Lusoexpress" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="FIREFOX" server_name="VMhost le" start_url="http://bo.lusoexpress/">
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.Lusoexpress" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3aadb63-5b7b-44d9-8686-deddeab271bb" name="Default" comment="" />
+      <created>1440145203014</created>
+      <updated>1440145203014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20801733" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="35" selection-start="306" selection-end="306" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="22899" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/Role.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="24" selection-start="865" selection-end="867" vertical-scroll-proportion="-26.961538" vertical-offset="47" max-vertical-offset="1173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/RoleId.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="1" selection-start="485" selection-end="485" vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Exception/UserNotFoundException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="27" selection-start="259" selection-end="280" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Exception/UserAlreadyExistException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="6" selection-start="259" selection-end="259" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/lichtner/fluentpdo/FluentPDO/CommonQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="56" selection-start="653" selection-end="656" vertical-scroll-proportion="5.607843" vertical-offset="728" max-vertical-offset="3995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/lichtner/fluentpdo/FluentPDO/SelectQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="5" selection-start="2830" selection-end="2830" vertical-scroll-proportion="1.3447059" vertical-offset="591" max-vertical-offset="2482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/lichtner/fluentpdo/FluentPDO/DeleteQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="25" selection-start="907" selection-end="907" vertical-scroll-proportion="-7.3461537" vertical-offset="183" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManagerInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="440" selection-end="440" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="391" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Event/EventSubscriberInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="163" selection-end="163" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Model/UniqueIdentifierInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="10" selection-start="109" selection-end="109" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/RoleRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="72" selection-start="67" selection-end="136" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="289" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="975" column="9" selection-start="31190" selection-end="31190" vertical-scroll-proportion="0.34917733" vertical-offset="16384" max-vertical-offset="18734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Query/UserFind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Query/Pagination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="6" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Query/Sorting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Query/UserList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="882" selection-end="882" vertical-scroll-proportion="0.858783" vertical-offset="0" max-vertical-offset="1394" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/RoleRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="14" selection-start="1004" selection-end="1004" vertical-scroll-proportion="-20.846153" vertical-offset="53" max-vertical-offset="2346" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="49" selection-start="135" selection-end="135" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="221" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application/UserModule/Repository/UserEntityRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="33" selection-start="591" selection-end="591" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="1156" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Factory/RoleFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="6" selection-start="319" selection-end="319" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Factory/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="224" selection-end="275" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="986" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Change/PublishableChangeInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="10" selection-start="186" selection-end="186" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Model/Uuid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="15" selection-start="98" selection-end="98" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="731" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/UserUuid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="32" selection-start="145" selection-end="145" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserPasswordUpdatedEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserExceptionEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="41" selection-start="163" selection-end="163" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Command/UserUpdateCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="20" selection-start="438" selection-end="438" vertical-scroll-proportion="7.730769" vertical-offset="592" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/UpdateUserPasswordChange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="7" selection-start="529" selection-end="529" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="1122" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/UpdateUserChange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="20" selection-start="834" selection-end="834" vertical-scroll-proportion="-17.0" vertical-offset="153" max-vertical-offset="1360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Change/HasChangeSet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="34" selection-start="537" selection-end="537" vertical-scroll-proportion="-8.653846" vertical-offset="268" max-vertical-offset="850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Change/ChangeSet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="20" selection-start="477" selection-end="477" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="1054" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManagerPDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="58" selection-start="5388" selection-end="5388" vertical-scroll-proportion="-12.423077" vertical-offset="2499" max-vertical-offset="3400" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="20" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="42" selection-start="2076" selection-end="2081" vertical-scroll-proportion="0.0" vertical-offset="1547" max-vertical-offset="3349">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserUpdatedEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="6" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Repository/HasRepositorySaveTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="58" selection-start="125" selection-end="125" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ConfigParser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="7" selection-start="1807" selection-end="1807" vertical-scroll-proportion="-51.653847" vertical-offset="0" max-vertical-offset="1751">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="25" selection-start="1413" selection-end="1413" vertical-scroll-proportion="-14.384615" vertical-offset="289" max-vertical-offset="2210">
+          <folding>
+            <element signature="e#41#106#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="258" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/UserRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="6" selection-start="1170" selection-end="1184" vertical-scroll-proportion="0.15850815" vertical-offset="0" max-vertical-offset="2380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Migrations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="-0.0" vertical-offset="34" max-vertical-offset="1173">
+          <folding>
+            <element signature="e#143#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityAbstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="5" selection-start="2595" selection-end="2595" vertical-scroll-proportion="-15.846154" vertical-offset="1577" max-vertical-offset="2465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="120" selection-start="3553" selection-end="3553" vertical-scroll-proportion="-28.115385" vertical-offset="1360" max-vertical-offset="3434">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="27" selection-start="529" selection-end="529" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="3111">
+          <folding>
+            <element signature="e#143#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserCreatedEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="9.653846" vertical-offset="251" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserEventSubscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="46" selection-start="1138" selection-end="1138" vertical-scroll-proportion="-10.615385" vertical-offset="438" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Command/UserCreateCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="7" selection-start="777" selection-end="777" vertical-scroll-proportion="-28.76923" vertical-offset="0" max-vertical-offset="1394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/CreateUserChange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="604" selection-end="620" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="2125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="53" selection-start="1187" selection-end="1187" vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="850">
+          <folding>
+            <element signature="e#181#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Service/UserService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="17" selection-start="1863" selection-end="1868" vertical-scroll-proportion="0.49942595" vertical-offset="432" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
