@@ -3,6 +3,7 @@ namespace kennysLabs\LusoExpress\Domain\Shared\Tests;
 
 use kennysLabs\LusoExpress\Domain\Shared\Model\UuidGeneratorInterface;
 use kennysLabs\LusoExpress\Domain\Shared\UnitOfWork\UnitOfWorkInterface;
+use kennysLabs\CommonLibrary\ORM\EntityManagerPDO;
 
 /**
  * Class UnitTestCase
@@ -11,14 +12,12 @@ use kennysLabs\LusoExpress\Domain\Shared\UnitOfWork\UnitOfWorkInterface;
 abstract class UnitTestCase extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @param EntityRepository $repositoryToMock
-     *
-     * @return EntityManager|\PHPUnit_Framework_MockObject_MockObject
+     * @return EntityManagerPDO|\PHPUnit_Framework_MockObject_MockObject
      */
-    protected function getEntityManagerMock(EntityRepository $repositoryToMock)
+    protected function getEntityManagerMock()
     {
         $emMock = $this->getMock(
-            EntityManager::class,
+            EntityManagerPDO::class,
             ['persist'],
             [],
             '',

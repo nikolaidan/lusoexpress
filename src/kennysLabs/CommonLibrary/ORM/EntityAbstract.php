@@ -4,6 +4,7 @@ namespace kennysLabs\CommonLibrary\ORM;
 
 class EntityAbstract implements EntityInterface
 {
+    const IGNORE_SET_KEYS = 'ignore_set_keys';
     const ENTITY_NAME = '';
 
     /** @var [] $_fields */
@@ -98,7 +99,7 @@ class EntityAbstract implements EntityInterface
 
             $check = array($entity, $method);
             if(is_callable($check)) {
-                $entity->$method($value);
+                $entity->$method($value, self::IGNORE_SET_KEYS);
             } else {
                 throw new \Exception('Entity and provided array are incompatible.');
             }
@@ -129,12 +130,20 @@ class EntityAbstract implements EntityInterface
 
         if (in_array($propertyName, $this->_fields) && substr($method, 0, 3) == 'set')
         {
-            $this->_setKeys[] = $propertyName;
-            return call_user_func_array(array($this, '_' . $method), $args);
+            if(!isset($args[1]) || $args[1] != self::IGNORE_SET_KEYS) {
+                $this->_setKeys[] = $propertyName;
+            }
+
+            if(method_exists($this, '_' . $method)) {
+                return call_user_func_array(array($this, '_' . $method), $args);
+            }
         }
         else
         {
-            return call_user_func_array(array($this, $method), $args);
+            if(method_exists($this, $method)) {
+                return call_user_func_array(array($this, $method), $args);
+            }
         }
+        return $this;
     }
 }

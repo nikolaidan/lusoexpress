@@ -26,16 +26,88 @@
       <file leaf-file-name="bootstrap.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="340">
+            <state line="6" column="17" selection-start="103" selection-end="112" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phpunit.xml.dist" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/phpunit.xml.dist">
+      <file leaf-file-name="IndexController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/Controllers/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="33" selection-start="343" selection-end="343" vertical-scroll-proportion="0.13266444" vertical-offset="0" max-vertical-offset="897">
+            <state line="6" column="32" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EntityGenerator.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityGenerator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="100" column="49" selection-start="2751" selection-end="2765" vertical-scroll-proportion="-13.769231" vertical-offset="1342" max-vertical-offset="3468">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigParser.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ConfigParser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="18" selection-start="50" selection-end="62" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="1751">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="7" selection-end="62" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="204">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseApplication.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseApplication.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="6" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.48" vertical-offset="510" max-vertical-offset="1564">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="30" selection-start="426" selection-end="426" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="697">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1938">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="12" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="29" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
               <folding />
             </state>
           </provider>
@@ -51,31 +123,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Factory/UserFactory.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Query/Sorting.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Query/UserList.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application/UserModule/Repository/UserRepository.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityRepositoryInterface.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application/UserModule/Repository/UserEntityRepository.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/UserRepositoryPDO.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserExceptionEvent.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserPasswordUpdatedEvent.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/UpdateUserPasswordChange.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityInterface.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/UserRepository.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Repository/HasRepositorySaveTrait.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ConfigParser.php" />
         <option value="$PROJECT_DIR$/config/config.ini" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityAbstract.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Migrations.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/UpdateUserChange.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManagerPDO.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/Event/EventBusTest.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/phpunit.xml" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/UnitTestCase.php" />
         <option value="$PROJECT_DIR$/application/phpunit.xml.dist" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/UnitOfWork/SimpleUnitOfWorkTest.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php" />
         <option value="$PROJECT_DIR$/application/bootstrap.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/Model/EmailTest.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/Model/NameTest.php" />
@@ -92,7 +150,6 @@
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Factory/UserFactoryTest.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Command/UserPasswordUpdateCommand.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/User.php" />
-        <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityGenerator.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Users.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Command/UserUpdateCommand.php" />
@@ -102,6 +159,21 @@
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Service/UserService.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserUpdatedEvent.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Service/UserServiceTest.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/UnitTestCase.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Repository/HasRepositorySaveTrait.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/UserRepository.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Repository/UserRepositoryTest.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityAbstract.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManagerPDO.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/BackendApplication/Controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/BackendApplication/Resources/config/index.ini" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/BackendApplication/config.ini" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseController.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/Application.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseApplication.php" />
       </list>
     </option>
   </component>
@@ -229,6 +301,194 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLibrary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonLibrary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ApplicationManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BackendApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BackendApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BackendApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kennysLabs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BackendApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lusoexpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -272,11 +532,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="Configurable.PHP" />
+    <property name="options.lastSelected" value="Configurable.PHP.PHPUnit" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop.express" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/autoload.php" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -284,18 +544,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\LusoExpress\Domain\Shared\Exception" />
-      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\LusoExpress\Domain\User\Service" />
-      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\LusoExpress\Domain\User" />
-      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\LusoExpress\Domain" />
-      <recent name="X:\Development\public_html\lusoexpress\application" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\CommonLibrary\ApplicationManager" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\BackendApplication\Resources\views\Index" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\BackendApplication\Resources" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\BackendApplication" />
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\BackendApplication\Controllers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\BackendApplication" />
       <recent name="X:\Development\public_html\lusoexpress\application" />
       <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\CommonLibrary\ORM" />
       <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\LusoExpress" />
       <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\Domain\Shared\Factory" />
-      <recent name="X:\Development\public_html\lusoexpress\src\kennysLabs\Domain\User\Factory" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Web Application.Lusoexpress">
@@ -354,29 +614,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20801733" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997833" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20801733" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -394,387 +654,314 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityAbstract.php</url>
+          <line>133</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserEventSubscriber.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="13" selection-start="630" selection-end="630" vertical-scroll-proportion="-7.0" vertical-offset="243" max-vertical-offset="1309" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Model/Name.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="89" selection-end="89" vertical-scroll-proportion="0.53846157" vertical-offset="116" max-vertical-offset="663" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/UserName.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="31" selection-start="170" selection-end="170" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="289" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/UpdateUserChange.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="7" selection-start="1265" selection-end="1265" vertical-scroll-proportion="-7.9615383" vertical-offset="728" max-vertical-offset="1275" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Migrations.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserCreatedEvent.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Query/UserFind.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Query/UserList.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="882" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1428">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/UserRepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="149" column="40" selection-start="4939" selection-end="4939" vertical-scroll-proportion="0.0" vertical-offset="2533" max-vertical-offset="2703">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/phpunit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="47" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Model/UuidGenerator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="37" selection-start="137" selection-end="137" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="697">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="95" selection-start="1243" selection-end="1288" vertical-scroll-proportion="-7.0" vertical-offset="447" max-vertical-offset="2210">
-          <folding>
-            <element signature="e#41#106#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/Event/EventBusTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="420" selection-end="420" vertical-scroll-proportion="14.384615" vertical-offset="612" max-vertical-offset="1224">
-          <folding>
-            <element signature="e#67#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/Model/EmailTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="31" selection-start="568" selection-end="568" vertical-scroll-proportion="-12.538462" vertical-offset="99" max-vertical-offset="646">
-          <folding>
-            <element signature="e#67#122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/Model/NameTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="44" selection-start="544" selection-end="544" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="612">
-          <folding>
-            <element signature="e#67#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/Query/PaginationTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="49" selection-start="451" selection-end="452" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="442">
-          <folding>
-            <element signature="e#67#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Authentication/Service/AuthenticationService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/phpunit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="17" selection-start="715" selection-end="715" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Factory/RoleFactoryTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="33" selection-start="100" selection-end="100" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="3" column="33" selection-start="100" selection-end="100" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Model/PasswordTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="34" selection-start="213" selection-end="213" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="816">
-          <folding />
-        </state>
+        <state line="5" column="34" selection-start="213" selection-end="213" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="816" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Model/UserUuidTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="876">
-          <folding>
-            <element signature="e#65#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Repository/RoleRepositoryTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="35.307693" vertical-offset="918" max-vertical-offset="1768">
-          <folding>
-            <element signature="e#70#129#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="876" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Service/RoleServiceTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.03846154" vertical-offset="1" max-vertical-offset="1343">
-          <folding>
-            <element signature="e#67#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityAbstract.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="9" selection-start="3252" selection-end="3252" vertical-scroll-proportion="-27.461538" vertical-offset="1615" max-vertical-offset="2465">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.03846154" vertical-offset="1" max-vertical-offset="1343" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Model/UniqueIdentifierInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="10" selection-start="109" selection-end="109" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="6" column="10" selection-start="109" selection-end="109" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Service/RoleService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="169" selection-end="169" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1428">
-          <folding />
-        </state>
+        <state line="5" column="4" selection-start="169" selection-end="169" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1428" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Repository/RepositoryInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="202" selection-end="276" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
+        <state line="6" column="0" selection-start="202" selection-end="276" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="595" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/RoleRepositoryInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="43" selection-start="423" selection-end="423" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="782">
-          <folding>
-            <element signature="e#64#114#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="13" column="43" selection-start="423" selection-end="423" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="782" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/RoleRepository.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="43" selection-start="517" selection-end="517" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="2601">
-          <folding>
-            <element signature="e#64#123#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="13" column="43" selection-start="517" selection-end="517" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="2601" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Factory/UserFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="20" selection-start="1074" selection-end="1074" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="816">
-          <folding />
-        </state>
+        <state line="37" column="20" selection-start="1074" selection-end="1074" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="816" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Model/UserTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="20" selection-start="2212" selection-end="2212" vertical-scroll-proportion="-6.9615383" vertical-offset="1094" max-vertical-offset="2737">
-          <folding>
-            <element signature="e#65#128#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="75" column="20" selection-start="2212" selection-end="2212" vertical-scroll-proportion="-6.9615383" vertical-offset="1094" max-vertical-offset="2737" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Command/UserPasswordUpdateCommand.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="20" selection-start="521" selection-end="521" vertical-scroll-proportion="-14.076923" vertical-offset="8" max-vertical-offset="884">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="76" selection-start="1361" selection-end="1361" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="646">
-          <folding />
-        </state>
+        <state line="24" column="20" selection-start="521" selection-end="521" vertical-scroll-proportion="-14.076923" vertical-offset="8" max-vertical-offset="884" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="0" selection-start="3324" selection-end="3324" vertical-scroll-proportion="-15.692307" vertical-offset="1836" max-vertical-offset="3230">
-          <folding />
-        </state>
+        <state line="139" column="0" selection-start="3324" selection-end="3324" vertical-scroll-proportion="-15.692307" vertical-offset="1836" max-vertical-offset="3230" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Factory/UserFactoryTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="21" selection-start="1183" selection-end="1190" vertical-scroll-proportion="-22.0" vertical-offset="6" max-vertical-offset="918">
-          <folding>
-            <element signature="e#67#126#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="34" column="21" selection-start="1183" selection-end="1190" vertical-scroll-proportion="-22.0" vertical-offset="6" max-vertical-offset="918" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityGenerator.php">
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/UserUuid.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="170" column="80" selection-start="6230" selection-end="6230" vertical-scroll-proportion="-26.807692" vertical-offset="2193" max-vertical-offset="3468">
+        <state line="5" column="12" selection-start="125" selection-end="125" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/UnitOfWork/SimpleUnitOfWorkTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1467" selection-end="1467" vertical-scroll-proportion="-15.153846" vertical-offset="286" max-vertical-offset="1598" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Exception/EntityNotFoundException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Exception/DomainExceptionInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="64" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Service/UserServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="260" column="57" selection-start="8368" selection-end="8368" vertical-scroll-proportion="0.7738232" vertical-offset="3746" max-vertical-offset="5967" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Command/UserUpdateCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="21" selection-start="944" selection-end="944" vertical-scroll-proportion="1.0539609" vertical-offset="0" max-vertical-offset="1139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserUpdatedEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="67" selection-start="864" selection-end="864" vertical-scroll-proportion="0.72215843" vertical-offset="0" max-vertical-offset="871" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/phpunit.xml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="7" selection-start="631" selection-end="631" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Users.php">
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="21" selection-start="1445" selection-end="1445" vertical-scroll-proportion="-27.461538" vertical-offset="612" max-vertical-offset="3366">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManagerInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="10" selection-start="58" selection-end="58" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="391">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/UnitTestCase.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="70" selection-start="1139" selection-end="1154" vertical-scroll-proportion="-19.961538" vertical-offset="161" max-vertical-offset="1037">
-          <folding>
-            <element signature="e#61#131#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="16" column="29" selection-start="508" selection-end="508" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="1020" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Model/UserUuid.php">
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Change/HasChangeName.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="12" selection-start="125" selection-end="125" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="238">
+        <state line="3" column="6" selection-start="68" selection-end="68" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Change/ChangeSet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="275" selection-end="275" vertical-scroll-proportion="-2.7307692" vertical-offset="167" max-vertical-offset="1054">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/UnitOfWork/SimpleUnitOfWorkTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1467" selection-end="1467" vertical-scroll-proportion="-15.153846" vertical-offset="286" max-vertical-offset="1598">
-          <folding>
-            <element signature="e#72#130#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/UnitOfWork/UnitOfWorkInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1054">
+        <state line="37" column="20" selection-start="908" selection-end="908" vertical-scroll-proportion="-16.038462" vertical-offset="178" max-vertical-offset="1054" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Repository/RoleRepositoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="456" vertical-scroll-proportion="-0.04" vertical-offset="51" max-vertical-offset="1768" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/UpdateUserPasswordChange.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="35" selection-start="1086" selection-end="1101" vertical-scroll-proportion="-21.076923" vertical-offset="183" max-vertical-offset="1054" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Repository/UserRepositoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="209" column="39" selection-start="7436" selection-end="7436" vertical-scroll-proportion="-7.6538463" vertical-offset="3354" max-vertical-offset="5202" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3366">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application/UserModule/Repository/UserEntityRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityAbstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="0" selection-start="3157" selection-end="3157" vertical-scroll-proportion="0.0" vertical-offset="2101" max-vertical-offset="2618">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Repository/UserRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="0" selection-start="4505" selection-end="4505" vertical-scroll-proportion="0.0" vertical-offset="2131" max-vertical-offset="2907">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManagerPDO.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="0" selection-start="2684" selection-end="2684" vertical-scroll-proportion="-19.73077" vertical-offset="1000" max-vertical-offset="3400">
+        <state line="91" column="0" selection-start="2792" selection-end="2792" vertical-scroll-proportion="0.7807118" vertical-offset="867" max-vertical-offset="3434">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Exception/EntityNotFoundException.php">
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Service/UserService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="64" selection-end="64" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Exception/DomainExceptionInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="64" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="255">
+        <state line="86" column="0" selection-start="2658" selection-end="2658" vertical-scroll-proportion="0.4730195" vertical-offset="1050" max-vertical-offset="1921">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/UnitOfWork/SimpleUnitOfWork.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="28.76923" vertical-offset="918" max-vertical-offset="1819">
-          <folding>
-            <element signature="e#66#124#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Service/UserService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="9" selection-start="2832" selection-end="2832" vertical-scroll-proportion="-17.0" vertical-offset="884" max-vertical-offset="1734">
+        <state line="56" column="0" selection-start="1585" selection-end="1585" vertical-scroll-proportion="0.0045924224" vertical-offset="948" max-vertical-offset="1819">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Tests/Service/UserServiceTest.php">
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Repository/HasRepositorySaveTrait.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="260" column="57" selection-start="8368" selection-end="8368" vertical-scroll-proportion="0.7738232" vertical-offset="3746" max-vertical-offset="5967">
-          <folding>
-            <element signature="e#67#128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Command/UserUpdateCommand.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="21" selection-start="944" selection-end="944" vertical-scroll-proportion="1.0539609" vertical-offset="0" max-vertical-offset="1139">
+        <state line="26" column="0" selection-start="747" selection-end="747" vertical-scroll-proportion="0.4879449" vertical-offset="0" max-vertical-offset="871">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserUpdatedEvent.php">
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/Resources/views/index/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="67" selection-start="864" selection-end="864" vertical-scroll-proportion="0.72215843" vertical-offset="0" max-vertical-offset="871">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="49" selection-start="2751" selection-end="2765" vertical-scroll-proportion="-13.769231" vertical-offset="1342" max-vertical-offset="3468">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="29" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="12" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="32" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="7" selection-end="62" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ConfigParser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="18" selection-start="50" selection-end="62" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="1751">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="340">
+        <state line="6" column="17" selection-start="103" selection-end="112" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/phpunit.xml.dist">
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="33" selection-start="343" selection-end="343" vertical-scroll-proportion="0.13266444" vertical-offset="0" max-vertical-offset="897">
+        <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="426" selection-end="426" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseApplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="6" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.48" vertical-offset="510" max-vertical-offset="1564">
           <folding />
         </state>
       </provider>

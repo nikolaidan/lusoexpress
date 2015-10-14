@@ -1,6 +1,8 @@
 <?php
 namespace kennysLabs\LusoExpress;
 
+use kennysLabs\LusoExpress\Application\UserModule\Repository\UserEntityRepository;
+
 use kennysLabs\LusoExpress\Domain\User\Event\UserEventSubscriber;
 use kennysLabs\LusoExpress\Domain\User\Repository\UserRepository;
 use kennysLabs\LusoExpress\Domain\User\Repository\RoleRepository;
@@ -8,16 +10,15 @@ use kennysLabs\LusoExpress\Domain\User\Service\UserService;
 use kennysLabs\LusoExpress\Domain\User\Factory\RoleFactory;
 use kennysLabs\LusoExpress\Domain\User\Factory\UserFactory;
 
-use kennysLabs\LusoExpress\Application\UserModule\Repository\UserEntityRepository;
-
 use kennysLabs\LusoExpress\Domain\Shared\UnitOfWork\SimpleUnitOfWork;
 use kennysLabs\LusoExpress\Domain\Shared\Model\UuidGenerator;
 use kennysLabs\LusoExpress\Domain\Shared\Event\SimpleEventBus;
 
 use kennysLabs\CommonLibrary\ConfigParser;
+use kennysLabs\CommonLibrary\ApplicationManager\BaseApplication;
 use kennysLabs\CommonLibrary\ORM\EntityManagerPDO;
 
-class Application
+class Application extends BaseApplication
 {
     protected static $instance;
 
@@ -30,15 +31,10 @@ class Application
     private $userRepository;
     private $unitOfWork;
     private $userService;
-    private $pdo;
-    private $config;
 
-    private function __construct()
+    protected function __construct($ini = '')
     {
-        $this->config = ConfigParser::getInstance(ROOT_PATH.'/../application/config/config.ini');
-        $this->pdo = new \FluentPDO(new \PDO("mysql:dbname=" . $this->config->{'db_section'}['db_database'],
-            $this->config->{'db_section'}['db_username'],
-            $this->config->{'db_section'}['db_password']));
+        parent::__construct($ini);
 
         // Our entity manager
         $this->entityManagerPDO = new EntityManagerPDO($this->pdo);
@@ -69,18 +65,6 @@ class Application
         // Create a user service that takes care of doing things
         $this->userService = new UserService($this->unitOfWork, $this->roleRepository, new UuidGenerator());
 
-    }
-
-    /**
-     * @return Application
-     */
-    public static function getInstance()
-    {
-        if (static::$instance instanceof self) {
-            return static::$instance;
-        }
-
-        return static::$instance = new self();
     }
 
     /**

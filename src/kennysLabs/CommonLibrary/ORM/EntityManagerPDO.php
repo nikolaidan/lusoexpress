@@ -74,18 +74,20 @@ class EntityManagerPDO implements EntityManagerInterface
         }
 
         // Let's check for duplicates:
-        $query = $this->pdo->from($entity->getTableName());
+        if ($persistType == self::TYPE_CREATE_ONLY) {
+            $query = $this->pdo->from($entity->getTableName());
 
-        foreach($uniqueKeyValues as $idx => $pkv) {
-            if(is_null($pkv)) {
-                $query = $query->where($idx . ' IS NULL');
-            } else {
-                $query = $query->where($idx . '= ?', $pkv);
+            foreach($uniqueKeyValues as $idx => $pkv) {
+                if(is_null($pkv)) {
+                    $query = $query->where($idx . ' IS NULL');
+                } else {
+                    $query = $query->where($idx . '= ?', $pkv);
+                }
             }
-        }
 
-        if(count($duplicate = $query->fetchAll()) > 0) {
-            throw new \Exception('Duplicate found for: ' . implode(', ', array_values($uniqueKeyValues)));
+            if(count($duplicate = $query->fetchAll()) > 0) {
+                throw new \Exception('Duplicate found for: ' . implode(', ', array_values($uniqueKeyValues)));
+            }
         }
 
         // Ok, no duplicates so far... let's check for the primary keys

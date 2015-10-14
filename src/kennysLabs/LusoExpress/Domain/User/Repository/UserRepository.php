@@ -12,6 +12,7 @@ use kennysLabs\LusoExpress\Domain\User\Query\UserList;
 use kennysLabs\LusoExpress\Domain\Shared\Model\UniqueIdentifierInterface;
 use kennysLabs\LusoExpress\Domain\User\Change\CreateUserChange;
 use kennysLabs\LusoExpress\Domain\User\Change\UpdateUserChange;
+use kennysLabs\LusoExpress\Domain\User\Change\UpdateUserPasswordChange;
 use kennysLabs\LusoExpress\Domain\Shared\Repository\HasRepositorySaveTrait;
 use kennysLabs\LusoExpress\Domain\Shared\Model\UuidGenerator;
 
@@ -129,8 +130,7 @@ class UserRepository implements UserRepositoryInterface
      */
     protected function handleUpdateUserChange(UpdateUserChange $change)
     {
-        $usersEntity = new EntityUser();
-        $usersEntity->setUuid($change->getUuid()->toString());
+        $usersEntity = $this->userRepository->findOneByUuid($change->getUuid()->toString());
         $usersEntity->setName($change->getName()->toString());
         $usersEntity->setActive($change->getActive()->toBoolean());
 
@@ -139,6 +139,18 @@ class UserRepository implements UserRepositoryInterface
         } catch (UniqueConstraintViolationException $e) {
             throw new UserNotFoundException();
         }
+    }
+
+
+    /**
+     * @param UpdateUserPasswordChange $change
+     */
+    protected function handleUpdateUserPasswordChange(UpdateUserPasswordChange $change)
+    {
+        $usersEntity = $this->userRepository->findOneByUuid($change->getUuid()->toString());
+        $usersEntity->setPasswordHash($change->getPasswordHash()->toString());
+
+        $this->entityManager->persist($usersEntity, EntityManagerInterface::TYPE_UPDATE_ONLY);
     }
 
     /**

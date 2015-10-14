@@ -10,6 +10,9 @@ use kennysLabs\LusoExpress\Domain\User\Command\UserUpdateCommand;
 use kennysLabs\CommonLibrary\ORM\EntityGenerator;
 use kennysLabs\LusoExpress\Application;
 
+Application::getInstance()->run();
+return;
+
 // This will generate DB table entity files every time for testing purposes...
 if(Application::getInstance()->getConfig()->{'main_section'}['TEST_MODE'] == 'true') {
     EntityGenerator::getInstance(Application::getInstance()->getPdo(), Application::getInstance()->getConfig())->generateEntityFile();
