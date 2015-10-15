@@ -26,16 +26,16 @@
       <file leaf-file-name="bootstrap.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="103" selection-end="112" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
+            <state line="6" column="17" selection-start="103" selection-end="112" vertical-scroll-proportion="-0.0" vertical-offset="102" max-vertical-offset="340">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="IndexController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/Controllers/IndexController.php">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendModule/Controllers/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="32" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
+            <state line="7" column="1" selection-start="167" selection-end="167" vertical-scroll-proportion="-2.3333333" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="EntityGenerator.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityGenerator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="49" selection-start="2751" selection-end="2765" vertical-scroll-proportion="-13.769231" vertical-offset="1342" max-vertical-offset="3468">
+            <state line="100" column="49" selection-start="2751" selection-end="2765" vertical-scroll-proportion="0.0" vertical-offset="1342" max-vertical-offset="3468">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="ConfigParser.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ConfigParser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="18" selection-start="50" selection-end="62" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="1751">
+            <state line="4" column="18" selection-start="50" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1751">
               <folding />
             </state>
           </provider>
@@ -62,16 +62,16 @@
       <file leaf-file-name="BaseController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="7" selection-end="62" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="204">
+            <state line="7" column="34" selection-start="138" selection-end="138" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseApplication.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BaseApplication.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseApplication.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="6" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.48" vertical-offset="510" max-vertical-offset="1564">
+            <state line="69" column="85" selection-start="1856" selection-end="1856" vertical-scroll-proportion="-27.461538" vertical-offset="459" max-vertical-offset="2652">
               <folding />
             </state>
           </provider>
@@ -80,7 +80,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="30" selection-start="426" selection-end="426" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="697">
+            <state line="12" column="30" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
@@ -89,16 +89,16 @@
       <file leaf-file-name="Application.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1938">
+            <state line="10" column="59" selection-start="502" selection-end="502" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1938">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.ini" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/config.ini">
+      <file leaf-file-name="config.ini" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendModule/config.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="12" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+            <state line="1" column="24" selection-start="33" selection-end="33" vertical-scroll-proportion="0.019406393" vertical-offset="0" max-vertical-offset="876">
               <folding />
             </state>
           </provider>
@@ -107,7 +107,7 @@
       <file leaf-file-name="config.ini" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/config/config.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="29" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+            <state line="15" column="16" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
               <folding />
             </state>
           </provider>
@@ -123,8 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Event/UserPasswordUpdatedEvent.php" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/User/Change/UpdateUserPasswordChange.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityInterface.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ConfigParser.php" />
         <option value="$PROJECT_DIR$/config/config.ini" />
@@ -169,10 +167,12 @@
         <option value="$PROJECT_DIR$/src/kennysLabs/BackendApplication/Controllers/IndexController.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/BackendApplication/Resources/config/index.ini" />
         <option value="$PROJECT_DIR$/src/kennysLabs/BackendApplication/config.ini" />
-        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseController.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/Application.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php" />
         <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/application/config/config.ini" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseController.php" />
+        <option value="$PROJECT_DIR$/src/kennysLabs/BackendModule/Controllers/IndexController.php" />
         <option value="$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseApplication.php" />
       </list>
     </option>
@@ -219,6 +219,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -268,28 +269,6 @@
               <option name="myItemId" value="kennysLabs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LusoExpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kennysLabs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -309,225 +288,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CommonLibrary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kennysLabs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CommonLibrary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ApplicationManager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kennysLabs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BackendApplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kennysLabs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BackendApplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kennysLabs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BackendApplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kennysLabs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BackendApplication" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lusoexpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="BackendModule" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -631,11 +397,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936078" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -784,9 +550,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityManagerInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="10" selection-start="58" selection-end="58" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="391">
-          <folding />
-        </state>
+        <state line="4" column="10" selection-start="58" selection-end="58" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="391" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Tests/UnitTestCase.php">
@@ -801,9 +565,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Change/ChangeSet.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="275" selection-end="275" vertical-scroll-proportion="-2.7307692" vertical-offset="167" max-vertical-offset="1054">
-          <folding />
-        </state>
+        <state line="14" column="26" selection-start="275" selection-end="275" vertical-scroll-proportion="-2.7307692" vertical-offset="167" max-vertical-offset="1054" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/UnitOfWork/UnitOfWorkInterface.php">
@@ -828,16 +590,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Infrastructure/Entity/Users.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3366">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3366" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityRepositoryInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="20" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323">
-          <folding />
-        </state>
+        <state line="12" column="20" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application/UserModule/Repository/UserEntityRepository.php">
@@ -884,84 +642,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Domain/Shared/Repository/HasRepositorySaveTrait.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="747" selection-end="747" vertical-scroll-proportion="0.4879449" vertical-offset="0" max-vertical-offset="871">
-          <folding />
-        </state>
+        <state line="26" column="0" selection-start="747" selection-end="747" vertical-scroll-proportion="0.4879449" vertical-offset="0" max-vertical-offset="871" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/Resources/views/index/login.html">
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendModule/Resources/views/index/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ORM/EntityGenerator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="49" selection-start="2751" selection-end="2765" vertical-scroll-proportion="-13.769231" vertical-offset="1342" max-vertical-offset="3468">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="29" selection-start="387" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="12" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendApplication/Controllers/IndexController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="32" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="7" selection-end="62" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="204">
+        <state line="100" column="49" selection-start="2751" selection-end="2765" vertical-scroll-proportion="0.0" vertical-offset="1342" max-vertical-offset="3468">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ConfigParser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="18" selection-start="50" selection-end="62" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="1751">
+        <state line="4" column="18" selection-start="50" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1751">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="103" selection-end="112" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1938">
+        <state line="6" column="17" selection-start="103" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="30" selection-start="426" selection-end="426" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="697">
+        <state line="12" column="30" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="34" selection-start="138" selection-end="138" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendModule/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="167" selection-end="167" vertical-scroll-proportion="-2.3333333" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/LusoExpress/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="59" selection-start="502" selection-end="502" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1938">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kennysLabs/CommonLibrary/ApplicationManager/BaseApplication.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="6" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.48" vertical-offset="510" max-vertical-offset="1564">
+        <state line="69" column="85" selection-start="1856" selection-end="1856" vertical-scroll-proportion="-27.461538" vertical-offset="459" max-vertical-offset="2652">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="16" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kennysLabs/BackendModule/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="24" selection-start="33" selection-end="33" vertical-scroll-proportion="0.019406393" vertical-offset="0" max-vertical-offset="876">
           <folding />
         </state>
       </provider>

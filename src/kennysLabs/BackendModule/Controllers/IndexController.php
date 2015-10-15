@@ -1,15 +1,14 @@
 <?php
 
-namespace kennysLabs\BackendApplication\Controllers;
+namespace kennysLabs\BackendModule\Controllers;
 
 use kennysLabs\CommonLibrary\ApplicationManager\BaseController;
 
 class IndexController extends BaseController
 {
-
     public function loginAction()
     {
-        // do something
+        echo 'Login action will be implemented here...';
     }
 
 }

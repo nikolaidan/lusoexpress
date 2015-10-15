@@ -2,6 +2,11 @@
 
 namespace kennysLabs\CommonLibrary\ApplicationManager;
 
-class BaseController {
+abstract class BaseController {
+
+    /**
+     * Default index action dummie
+     */
+    public function indexAction() {}
 
 }
