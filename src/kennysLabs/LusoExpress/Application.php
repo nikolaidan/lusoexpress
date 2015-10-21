@@ -32,9 +32,12 @@ class Application extends BaseApplication
     private $unitOfWork;
     private $userService;
 
-    protected function __construct($ini = '')
+    /**
+     * @inheritdoc
+     */
+    protected function __construct($ini = '', $namespace = '')
     {
-        parent::__construct($ini);
+        parent::__construct($ini, $namespace);
 
         // Our entity manager
         $this->entityManagerPDO = new EntityManagerPDO($this->pdo);
@@ -64,6 +67,8 @@ class Application extends BaseApplication
 
         // Create a user service that takes care of doing things
         $this->userService = new UserService($this->unitOfWork, $this->roleRepository, new UuidGenerator());
+
+        $this->setGlobalTemplate('base.html.twig');
 
     }
 

@@ -8,7 +8,6 @@ class IndexController extends BaseController
 {
     public function loginAction()
     {
-        echo 'Login action will be implemented here...';
     }
 
 }
