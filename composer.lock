@@ -5,6 +5,7 @@
         "This file is @generated automatically"
     ],
     "hash": "8b7f4d33068408f1a6ddcf04677299e6",
+    "content-hash": "2c9760ff2e1bc62458ae1d9eb96b612f",
     "packages": [
         {
             "name": "lichtner/fluentpdo",

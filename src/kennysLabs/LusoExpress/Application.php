@@ -40,75 +40,42 @@ class Application extends BaseApplication
         parent::__construct($ini, $namespace);
 
         // Our entity manager
-        $this->entityManagerPDO = new EntityManagerPDO($this->pdo);
+        $this->getDi()->add('entityManagerPDO', new EntityManagerPDO($this->pdo));
 
-        $this->userEntityRepository = new UserEntityRepository($this->pdo);
+        $this->getDi()->add('userEntityRepository', new UserEntityRepository($this->pdo));
 
         // Our event subscriber that received all the events he needs for the user
-        $this->userEventSubscriber = new UserEventSubscriber();
+        $this->getDi()->add('userEventSubscriber', new UserEventSubscriber());
 
         // Our event bus
-        $this->simpleEventBus = new SimpleEventBus();
+        $this->getDi()->add('simpleEventBus', new SimpleEventBus());
 
         // Simple dummy role repository for creating a dummy user
-        $this->roleRepository = new RoleRepository(array('admin' => ['id' => 1, 'permission' => 777]), new RoleFactory());
+        $this->getDi()->add('roleRepository', new RoleRepository(array('admin' => ['id' => 1, 'permission' => 777]), new RoleFactory()));
 
         // User Factory
-        $this->userFactory = new UserFactory($this->roleRepository);
+        $this->getDi()->add('userFactory', new UserFactory($this->getDi()->get('roleRepository')));
 
         // Our user repository that will work with user data
-        $this->userRepository = new UserRepository($this->userEntityRepository, $this->entityManagerPDO, $this->userFactory, $this->roleRepository);
+        $this->getDi()->add('userRepository', new UserRepository(
+            $this->getDi()->get('userEntityRepository'),
+            $this->getDi()->get('entityManagerPDO'),
+            $this->getDi()->get('userFactory'),
+            $this->getDi()->get('roleRepository')));
 
         // Unit of work.. basically the "worker". Uses our repository and our event bus
-        $this->unitOfWork = new SimpleUnitOfWork($this->userRepository, $this->simpleEventBus);
+        $this->getDi()->add('unitOfWork', new SimpleUnitOfWork($this->getDi()->get('userRepository'),
+            $this->getDi()->get('simpleEventBus')));
 
         // We register our event subscriber in our bus...
-        $this->simpleEventBus->register($this->userEventSubscriber);
+        $this->getDi()->get('simpleEventBus')->register($this->getDi()->get('userEventSubscriber'));
 
         // Create a user service that takes care of doing things
-        $this->userService = new UserService($this->unitOfWork, $this->roleRepository, new UuidGenerator());
+        $this->getDi()->add('userService', new UserService($this->getDi()->get('unitOfWork'),
+            $this->getDi()->get('roleRepository'),
+            new UuidGenerator()));
 
         $this->setGlobalTemplate('base.html.twig');
 
-    }
-
-    /**
-     * @return UserService
-     */
-    public function getUserService()
-    {
-        return $this->userService;
-    }
-
-    /**
-     * @return UserRepository
-     */
-    public function getUserRepository()
-    {
-        return $this->userRepository;
-    }
-
-    /**
-     * @return UserEventSubscriber
-     */
-    public function getUserEventSubscriber()
-    {
-        return $this->userEventSubscriber;
-    }
-
-    /**
-     * @return ConfigParser
-     */
-    public function getConfig()
-    {
-        return $this->config;
-    }
-
-    /**
-     * @return \FluentPDO
-     */
-    public function getPdo()
-    {
-        return $this->pdo;
     }
 }

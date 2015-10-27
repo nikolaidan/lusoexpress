@@ -145,16 +145,29 @@ class EntityManagerPDO implements EntityManagerInterface
 
         foreach ($entity->getEntityFields() as $field)
         {
-            $value = is_null($entity->get($field)) ? 'NULL, ' : '\'' . $entity->get($field) . '\', ';
+            $fieldValue = $entity->get($field);
+            $fieldType = gettype($fieldValue);
+
+            if($fieldType == 'boolean') {
+                $fieldValue = $fieldValue ? '1' : '0';
+            }
+
+            if(($field == 'created_at' || $field == 'updated_at') && is_null($fieldValue)) {
+                $fieldValue = date('Y-m-d H:i:s', time());
+            }
+
+            $value = is_null($fieldValue) ? 'NULL, ' : '\'' . $fieldValue  . '\', ';
             $query .= $value;
         }
         $query = substr($query, 0, -2);
         $query .= ');';
 
+
+        $_q = $query;
         $query = $this->pdo->getPdo()->query($query);
         if(!$query) {
             $errorInfo = $this->pdo->getPdo()->errorInfo();
-            throw new \PDOException($errorInfo[2], $errorInfo[0]);
+            throw new \PDOException($errorInfo[2] . $errorInfo[0]);
         }
 
         return $query->execute();
